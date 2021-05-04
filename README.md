@@ -5,3 +5,9 @@ Member table
 
 Payment table
 ![image](https://user-images.githubusercontent.com/81313693/116978723-ea1a1c00-ace5-11eb-9ebd-6b52f498158b.png)
+
+
+Working process of the system
+
+https://user-images.githubusercontent.com/81313693/116982677-ea68e600-acea-11eb-8fd3-2079254eb908.mp4
+
